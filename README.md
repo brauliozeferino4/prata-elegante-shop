@@ -1,73 +1,159 @@
-# Welcome to your Lovable project
+# Prata Elegante
 
-## Project info
+Cria um site moderno e profissional de e-commerce para venda de joias de prata 925.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+O público-alvo são jovens e adultos que valorizam elegância, qualidade e sofisticação a preços acessíveis. O site deve transmitir confiança, exclusividade e delicadeza.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Estrutura obrigatória do site:
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Página inicial com:
 
-Follow these steps:
+
+
+
+
+
+
+Banner principal com imagem elegante de joias de prata.
+
+Frase impactante como: “Elegância em cada detalhe”.
+
+Botão de chamada para ação: “Comprar Agora”.
+
+
+
+
+
+
+
+Secção de produtos organizados por categorias:
+
+
+
+
+
+
+
+Anéis
+
+Colares
+
+Pulseiras
+
+Brincos
+
+
+
+
+
+Cada produto deve ter:
+
+
+
+Imagem de alta qualidade
+
+Nome do produto
+
+Preço
+
+Descrição curta
+
+Botão “Adicionar ao carrinho”
+
+
+
+
+
+
+
+Página “Sobre Nós”:
+Texto que transmita confiança, qualidade da prata 925, compromisso com autenticidade e satisfação do cliente.
+
+Página de Contacto:
+
+
+
+
+
+
+
+Formulário com nome, email e mensagem
+
+WhatsApp para atendimento rápido
+
+Localização em Angola
+
+
+
+
+
+
+
+Funcionalidades essenciais:
+
+
+
+
+
+
+
+Carrinho de compras
+
+Pagamentos por Transferência Bancária e Multicaixa Express
+
+Layout responsivo para telemóvel
+
+Design minimalista nas cores branco, cinza e prata
+
+Tipografia elegante e moderna
+
+
+
+
+
+Extras:
+
+
+
+Secção de testemunhos de clientes
+
+Garantia de autenticidade da prata
+
+Integração com Instagram
+
+Botões visíveis de redes sociais
+
+
+
+
+
+O design deve ser sofisticado, limpo e focado na experiência do utilizador. Priorizar carregamento rápido, navegação simples e aparência premium.
+
+This project was built with [Lovable](https://lovable.dev).
+
+**Live app**: https://prata-elegante-shop.lovable.app
+
+## Build with Lovable
+
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/c8d8abbd-3f57-4646-8149-c581a86e4701).
+
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+git clone <this-repository-url>
+cd <repository-name>
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
